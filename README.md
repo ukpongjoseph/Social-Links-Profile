@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Social links profile
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
@@ -91,3 +92,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Social-Links-Profile
+This is a clone of Social Links Profile project from Frontend Mentor
+>>>>>>> 21543ef244e938af76b785fcceae89ab55116c44
